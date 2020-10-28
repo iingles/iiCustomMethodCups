@@ -1,7 +1,7 @@
-# INFO 1200 Participation 11
+# INFO 1200 Participation 12
 ### Fall 2020
 
-## Car Design
+## Cups to Ounces converter
 
 --- 
 **Code**
@@ -9,10 +9,8 @@
  - [C# Code](https://github.com/iingles/iiCustomMethodCups/blob/master/iiCustomMethodCups/MainPage.xaml.cs)
 
 **Screenshots**
- - [Screenshot 1](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164151.jpg)
- - [Screenshot 2](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164203.jpg)
- - [Screenshot 3](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164217.jpg)
- - [Screenshot 4](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164226.jpg)
- - [Screenshot 5](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164241.jpg)
- - [Screenshot 5](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164255.jpg)
- - [Screenshot 5](https://github.com/iingles/iiCarDesign/blob/master/Screenshot_20201020-164300.jpg)
+ - [4 Cups Result](https://github.com/iingles/iiCustomMethodCups/blob/master/4-cups.jpg)
+ - [2.5 Cups with keypad](https://github.com/iingles/iiCustomMethodCups/blob/master/2-5-cups-keypad.jpg)
+ - [2.5 Cups Result](https://github.com/iingles/iiCustomMethodCups/blob/master/2-5-cups-result.jpg)
+ - [Invalid Entry " . " with keypad](https://github.com/iingles/iiCustomMethodCups/blob/master/invalid-entry-keypad.jpg)
+ - [Invalid Entry Alert](https://github.com/iingles/iiCustomMethodCups/blob/master/invalid-entry-alert.jpg)
